@@ -25,22 +25,22 @@ This code provides a clear example of building a neural network for multi-class 
 ![image](https://github.com/nenomg/Iris-Flower-Classification-with-Neural-Networks/assets/105873794/77776e66-31e0-4423-a496-97415736bde8)
 
 ## Training
-- 5 EPOCHS
+- 5 EPOCHS<br/>
   ![image](https://github.com/nenomg/Iris-Flower-Classification-with-Neural-Networks/assets/105873794/f959b2d9-1057-4926-aada-29b7ab534fc9)
 
-- 20 EPOCHS
+- 20 EPOCHS<br/>
   ![image](https://github.com/nenomg/Iris-Flower-Classification-with-Neural-Networks/assets/105873794/7d407ae7-809c-4363-abec-80015c27e830)
 
-- 50 EPOCHS
+- 50 EPOCHS<br/>
   ![image](https://github.com/nenomg/Iris-Flower-Classification-with-Neural-Networks/assets/105873794/f8302b3c-d83b-48f6-8ff0-d49f062a70ef)
 
-- 100 EPOCHS
+- 100 EPOCHS<br/>
   ![image](https://github.com/nenomg/Iris-Flower-Classification-with-Neural-Networks/assets/105873794/d75e75ba-43eb-4c30-ada2-3eedfa479454)
 
-- 500 EPOCHS
+- 500 EPOCHS<br/>
   ![image](https://github.com/nenomg/Iris-Flower-Classification-with-Neural-Networks/assets/105873794/7ad6fb2b-ad46-439a-93dd-b73594858192)
 
-- 1000 EPOCHS
+- 1000 EPOCHS<br/>
   ![image](https://github.com/nenomg/Iris-Flower-Classification-with-Neural-Networks/assets/105873794/7029127b-de4b-468f-96c8-6af61809aa0b)
 
 ## Coclusions
